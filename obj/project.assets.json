@@ -8,11 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\keerthivasan.k\\.nuget\\packages\\": {}
+=======
     "C:\\Users\\kavin.senthil\\.nuget\\packages\\": {}
+>>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "d:\\vat\\practice3\\practice3.csproj",
+      "projectName": "practice3",
+      "projectPath": "d:\\vat\\practice3\\practice3.csproj",
+      "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
+      "outputPath": "d:\\vat\\practice3\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
       "projectUniqueName": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\practice3.csproj",
       "projectName": "practice3",
       "projectPath": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\practice3.csproj",
@@ -21,6 +35,7 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kavin.senthil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
       ],
       "originalTargetFrameworks": [
         "net7.0"

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "+s6UoYNfbOLk4oqnXD7L484ofjnFQinqtwQDkUjIT/5i6TYXWfd6x7XUfUcqdAc94U55HDMdSRxrLfo9nWjJ/Q==",
+  "success": true,
+  "projectFilePath": "d:\\vat\\practice3\\practice3.csproj",
+=======
   "dgSpecHash": "qEdwRXAQU3o64OEz+2Zz/EIYBWPRMAYlLZX5Oq6vLlh/ufszTn1nxlUjE/yEmpvWvovGWBAqIlu0EzUD1iDakQ==",
   "success": true,
   "projectFilePath": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\practice3.csproj",
+>>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
   "expectedPackageFiles": [],
   "logs": []
 }
