@@ -18,9 +18,13 @@ public class Methods{
 
 class Program(){
     public static void Main(string[] args){
+        Methods.Kavin();
+        Console.WriteLine("");
 
     }
 }
 class vasanvasan{
+
+    Console.WriteLine(""):
     
 }
