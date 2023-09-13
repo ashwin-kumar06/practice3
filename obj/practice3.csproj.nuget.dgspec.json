@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\aww\\practice3\\practice3.csproj": {}
+    "d:\\cn\\practice3\\practice3.csproj": {}
   },
   "projects": {
-    "d:\\aww\\practice3\\practice3.csproj": {
+    "d:\\cn\\practice3\\practice3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\aww\\practice3\\practice3.csproj",
+        "projectUniqueName": "d:\\cn\\practice3\\practice3.csproj",
         "projectName": "practice3",
-        "projectPath": "d:\\aww\\practice3\\practice3.csproj",
+        "projectPath": "d:\\cn\\practice3\\practice3.csproj",
         "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
-        "outputPath": "d:\\aww\\practice3\\obj\\",
+        "outputPath": "d:\\cn\\practice3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
