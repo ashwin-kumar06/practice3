@@ -4,6 +4,7 @@ public class Methods{
     public void Kavin(){
         Console.WriteLine("this is kavinpraksh");//change by kavin
         Console.WriteLine("second update");//kavin
+        Console.WriteLine("ooooo");
         Console.WriteLine("kik");
     }
     public void Keerthi(){
