@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\trio\\practice3\\practice3.csproj",
+      "projectUniqueName": "d:\\mil\\practice3\\practice3.csproj",
       "projectName": "practice3",
-      "projectPath": "d:\\trio\\practice3\\practice3.csproj",
+      "projectPath": "d:\\mil\\practice3\\practice3.csproj",
       "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
-      "outputPath": "d:\\trio\\practice3\\obj\\",
+      "outputPath": "d:\\mil\\practice3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,13 +62,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file d:\\trio\\practice3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

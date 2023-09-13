@@ -1,7 +1,10 @@
-﻿public class Methods{
+﻿using System.Diagnostics;
+
+public class Methods{
     public void Kavin(){
         Console.WriteLine("this is kavinpraksh");//change by kavin
         Console.WriteLine("second update");//kavin
+        Console.WriteLine("kik");
     }
     public void Keerthi(){
         Console.WriteLine("this is vasan");
@@ -15,9 +18,13 @@
 
 class Program(){
     public static void Main(string[] args){
+        Methods.Kavin();
+        Console.WriteLine("");
 
     }
 }
 class vasanvasan{
+
+    Console.WriteLine(""):
     
 }
