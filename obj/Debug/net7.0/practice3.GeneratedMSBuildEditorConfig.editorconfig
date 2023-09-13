@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = practice3
-<<<<<<< HEAD
-build_property.ProjectDir = d:\vat\practice3\
-=======
-build_property.ProjectDir = c:\Users\kavin.senthil\Desktop\update2aswin\practice3\
->>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
+build_property.ProjectDir = d:\trio\practice3\

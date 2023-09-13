@@ -8,34 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\keerthivasan.k\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\kavin.senthil\\.nuget\\packages\\": {}
->>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "d:\\vat\\practice3\\practice3.csproj",
+      "projectUniqueName": "d:\\trio\\practice3\\practice3.csproj",
       "projectName": "practice3",
-      "projectPath": "d:\\vat\\practice3\\practice3.csproj",
+      "projectPath": "d:\\trio\\practice3\\practice3.csproj",
       "packagesPath": "C:\\Users\\keerthivasan.k\\.nuget\\packages\\",
-      "outputPath": "d:\\vat\\practice3\\obj\\",
+      "outputPath": "d:\\trio\\practice3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keerthivasan.k\\AppData\\Roaming\\NuGet\\NuGet.Config"
-=======
-      "projectUniqueName": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\practice3.csproj",
-      "projectName": "practice3",
-      "projectPath": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\practice3.csproj",
-      "packagesPath": "C:\\Users\\kavin.senthil\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\kavin.senthil\\AppData\\Roaming\\NuGet\\NuGet.Config"
->>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -77,5 +62,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file d:\\trio\\practice3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
