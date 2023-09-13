@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "+s6UoYNfbOLk4oqnXD7L484ofjnFQinqtwQDkUjIT/5i6TYXWfd6x7XUfUcqdAc94U55HDMdSRxrLfo9nWjJ/Q==",
+  "dgSpecHash": "UfcHLBE57ji5z8AK+WVdfOU8/vmKG3m7iao0v1hWCveli1IP43LMk5OCZgFFII+EoK8Vo4T3gZ03hRmHQ9wTPA==",
   "success": true,
-  "projectFilePath": "d:\\vat\\practice3\\practice3.csproj",
-=======
-  "dgSpecHash": "qEdwRXAQU3o64OEz+2Zz/EIYBWPRMAYlLZX5Oq6vLlh/ufszTn1nxlUjE/yEmpvWvovGWBAqIlu0EzUD1iDakQ==",
-  "success": true,
-  "projectFilePath": "c:\\Users\\kavin.senthil\\Desktop\\update2aswin\\practice3\\practice3.csproj",
->>>>>>> 56ed88b310e3a19d1b837898cc7050f66ebc4e2d
+  "projectFilePath": "d:\\trio\\practice3\\practice3.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file d:\\trio\\practice3\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

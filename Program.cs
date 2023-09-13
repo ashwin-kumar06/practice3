@@ -18,3 +18,6 @@ class Program(){
 
     }
 }
+class vasanvasan{
+    
+}
