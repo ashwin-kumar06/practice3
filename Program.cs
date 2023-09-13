@@ -14,6 +14,8 @@ public class Methods{
 
         Console.WriteLine();
         Console.WriteLine("kee");
+        Console.WriteLine("added new");
+        Console.WriteLine("newly added");
     }
 }
 
@@ -29,3 +31,4 @@ class vasanvasan{
     Console.WriteLine(""):
     
 }
+
