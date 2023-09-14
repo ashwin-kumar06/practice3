@@ -16,6 +16,7 @@ public class Methods{
         Console.WriteLine("kee");
         Console.WriteLine("added new");
         Console.WriteLine("conflict");
+        console.WriteLine("conflict2");
         Console.WriteLine("newly added");
     }
 }
